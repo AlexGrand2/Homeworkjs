@@ -1,5 +1,5 @@
 var age = prompt ('vvedite svoi vozrast')
-if ( age >= 18 && age <= 20)
+if ( age >= 18 && age <= 27)
 {
 console.warn ('Poluchite Povestku')
 } 
